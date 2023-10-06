@@ -1,0 +1,30 @@
+﻿[Program Features] (may or may not change in the feature):
+	First Start up:
+		Loading Screen
+		Functional Loading:
+			Must be capable of preparing files and data before opening home page to increase performance (?)
+		Must only appear once unless program is exited
+
+	Account LogIn/Register:
+		Simple pass key to enter
+		Must be capable of registering different instances
+		Local account
+
+	First Window:
+		Can select:
+			Select Data Computation (Instances or records):
+				Show instances of different computations and records created by the user
+			Create new
+		Settings:
+			Theme
+			Organization
+	
+	Second Window (Depends on choice):
+		Main Window:
+			Show records and instances
+			Create new
+			Delete record
+			Rename
+			Clock
+			Show record details:
+				

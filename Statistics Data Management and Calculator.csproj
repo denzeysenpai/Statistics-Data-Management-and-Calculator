@@ -76,5 +76,13 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="Notes\Features, Functions and Short Summary.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Code\Classes\" />
+    <Folder Include="Code\Form Codes\" />
+    <Folder Include="Forms\" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
